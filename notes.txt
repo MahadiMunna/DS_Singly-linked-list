@@ -1,0 +1,5 @@
+Linked list is the core concept of DS.
+Array is sequential,for this need to allocate exact memory and has exact size.
+Singly linked list is one way, no exact size and allocate memory dynamically.
+one element link with another element with pointer.last element pointer will be null.
+Where node start is called head.
